@@ -1,2 +1,3 @@
 # My-landing-page
-my landing page
+My landing project
+Project type: Solo project
